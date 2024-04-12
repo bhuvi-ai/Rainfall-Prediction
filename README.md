@@ -4,6 +4,11 @@ The "weatherAUS" dataset on Kaggle offers comprehensive weather observations fro
 ## Overview
 This project aims to predict rainfall using machine learning techniques. It includes model development, deployment, and data analysis components.
 
+## Data Description
+The dataset (`weatherAUS.csv`) contains comprehensive weather observations from various stations across Australia. It includes features such as temperature, rainfall, wind, humidity, and pressure data etc.
+dataset link from kaggle : **https://www.kaggle.com/datasets/trisha2094/weatheraus**
+
+
 ## Files Included
 - **RainFall Prediction.ipynb:** Jupyter Notebook for model development and training.
 - **RainFallPredictionModel.pkl:** Serialized form of the trained predictive model.
@@ -28,7 +33,9 @@ This project aims to predict rainfall using machine learning techniques. It incl
    - View `Report.html` for dataset analysis and insights.
 
 ## Contributors
-- [Your Name]
+- [@suraj](https://github.com/exampleuser1)
+- [@YashManral]
+
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
