@@ -20,7 +20,7 @@ dataset link from kaggle : **https://www.kaggle.com/datasets/trisha2094/weathera
 
 ## Instructions
 1. **Setup Environment:**
-   - Install dependencies using `pip install -r req.txt`.
+   - Install dependencies using `pip install -r requirements.txt`.
    
 2. **Run the Model:**
    - Open and execute `RainFall Prediction.ipynb` to train the model.
