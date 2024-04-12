@@ -37,5 +37,3 @@ dataset link from kaggle : **https://www.kaggle.com/datasets/trisha2094/weathera
 - [@YashManral]
 
 
-## License
-This project is licensed under the [MIT License](LICENSE).
