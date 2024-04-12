@@ -33,7 +33,7 @@ dataset link from kaggle : **https://www.kaggle.com/datasets/trisha2094/weathera
    - View `Report.html` for dataset analysis and insights.
 
 ## Contributors
-- [@suraj](https://github.com/exampleuser1)
+- [@suraj](https://github.com/surraajj)
 - [@YashManral]
 
 
